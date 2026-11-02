@@ -13,6 +13,10 @@
 <a href="https://github.com/Muhammadalimughal15?tab=followers"><img src="https://img.shields.io/github/followers/Muhammadalimughal15?style=for-the-badge&logo=github&color=0e75b6" alt="Followers" /></a>
 <a href="https://github.com/Muhammadalimughal15?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Muhammadalimughal15&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=8a2be2" alt="Public repos" /></a>
 
+
+<br/><br/>
+<img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge" alt="Open to internships" />
+
 <br/><br/>
 
 <a href="mailto:itsmuhammadali125@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
